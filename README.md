@@ -1,4 +1,4 @@
-# Eliza 🤖
+# Azura 🤖
 
 <div align="center">
   <img src="./docs/static/img/1500x500.jpg" alt="Eliza Banner" width="100%" />
